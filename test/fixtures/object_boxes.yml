@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  timestamp: 1
+  xtl: 1
+  ytl: 1
+  xbr: 1
+  ybr: 1
+  snippet: one
+
+two:
+  timestamp: 1
+  xtl: 1
+  ytl: 1
+  xbr: 1
+  ybr: 1
+  snippet: two
